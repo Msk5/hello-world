@@ -8,5 +8,6 @@ FOO
 
 BARR
 
-
 HOGEEE
+
+# Bye!
