@@ -10,4 +10,6 @@ BARR
 
 HOGEEE
 
+New!!!
+
 # Bye!
